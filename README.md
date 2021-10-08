@@ -1,6 +1,6 @@
 # namaste-js
 
-## Episode 1 - How Javascript works & Execution Context
+## Episode 1 - How JavaScript Works 🔥& Execution Context
 "Everything in javascript happens inside an Execution Context" <br>
 "Javascript is a synchronous single-threaded language" <br>
 
