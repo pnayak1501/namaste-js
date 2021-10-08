@@ -1,3 +1,3 @@
 # namaste-js
 
-## How Javascript works?
+## How Javascript works & Execution Context
