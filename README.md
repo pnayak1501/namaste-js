@@ -39,7 +39,6 @@ Memory part: <br>
 num : 2 <br>
 ans : 4  //num * num is executed in the code part and the result is stored in ans <br>
 
-return keyword specifies that return the control of the program back to the place where the function was invoked.<br>
-Once the program has been completed executed, the whole execution context is deleted. <br>
+return keyword specifies that return the control of the program back to the place where the function was invoked. Once the program has been completed executed, the whole execution context is deleted. <br>
 
 The Call stack is used to manage the execution contexts.
