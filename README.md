@@ -20,8 +20,8 @@ In the second phase, JS will execute the code. <br>
 Memory part: <br>
 n : 2 <br>
 square : { ... }       //Stores the whole code of the function <br>
-square2 : undefined <br>
-square4 : undefined <br>
+square2 : 4 <br>
+square4 : 16 <br>
 
 When a function is being invoked, a new execution context is being created. <br>
 The new execution context for the function in phase 1: <br>
