@@ -45,3 +45,6 @@ The Call stack is used to manage all the execution contexts. <br>
 Call stack = Execution context stack = Program stack = Control stack = Runtime stack = Machine stack
 
 ## Episode 3 - Hoisting in JavaScript 🔥(variables & functions)
+
+Hoisting is a phenomenon in JS by which we can access these variables and functions even before we have inititalized it. <br>
+Firstly, the JS scans through the code and reserves the memory for all the variables and functions and for the variables, it stores the value of the variable and for the functions, we store the actual function defination. So, while printing the function and variable before they were initilized, the variables print undefined as their value and functions print the actual function defination.
