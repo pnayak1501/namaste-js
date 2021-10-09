@@ -1,7 +1,6 @@
 # namaste-js
 
 ## Episode 1 - How JavaScript Works 🔥& Execution Context
-
 ![](namaste/episode1.png) <br>
 
 "Everything in javascript happens inside an Execution Context" <br>
@@ -44,3 +43,5 @@ return keyword specifies that return the control of the program back to the plac
 The Call stack is used to manage all the execution contexts. <br>
 "Call Stack maintains the order of execution of execution contexts" <br>
 Call stack = Execution context stack = Program stack = Control stack = Runtime stack = Machine stack
+
+## Episode 3 - Hoisting in JavaScript 🔥(variables & functions)
